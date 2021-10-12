@@ -65,3 +65,24 @@ header {
     list-style-type: none;
 }
 
+.mobile,.website,.editorial,.recluting {
+    border-radius: 10px;
+    font-size: 60%;
+}
+
+.mobile {
+    background: rgb(122, 233, 128);
+}
+
+.website {
+    background: cyan;
+}
+
+.editorial {
+    background: darkorange;
+}
+
+.recluting {
+    background: blue;
+    color: white;
+}
