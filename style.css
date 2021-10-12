@@ -1,0 +1,28 @@
+body {
+    background: gray;
+    border: 0;
+    margin: 0;
+    
+}
+
+header {
+    background: white;
+    width: 100%;
+    position: relative;
+    
+}
+.intesta {
+    position: relative;
+    left: 1%;
+
+}
+
+.title {
+    position: absolute;
+    left: 5%;
+    top: 0;
+    margin: auto;
+    margin-top: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 200%;
+}
