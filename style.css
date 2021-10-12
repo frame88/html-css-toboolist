@@ -28,34 +28,38 @@ header {
 }
 
 .box-1 {
+    display: inline-block;
+    position: absolute;
+    right: 20%;
     background: white;
     width: 60%;
-    height: 15%;
     margin: auto;
     margin-top: 20px;
-    margin-bottom: 10px;
-    border-radius: 10px;
+    border-radius: 15px 15px 0px 0px;
 }
 
 #addtask {
-    background: darkorchid;
+    background: rgb(83, 158, 243);
     border-radius: 5px;
+    color: white;
 }
 
 #selection {
     background: white;
     border-radius: 5px;
+    color: lightgray;
 }
 
-
 .box-2 {
+    display: inline-block;
+    position: absolute;
+    top: 18.4%;
+    right: 20%;
     background: white;
     width: 60%;
-    height: 90vh;
     margin: auto;
     margin-top: 1px;
-    margin-bottom: 10px;
-    border-radius: 10px;
+    border-radius: 0 0px 15px 15px;
     font-size: 150%;
 }
 
